@@ -2,8 +2,8 @@
 - 👀 I love solving problems in a creative manner.
       Experience working with c, c++, Java and Python.
 - 🌱 I’m currently exploring the world of AI, ML and Data Science!
-- 💞️ Passionate about solving real time problems
-      I’m looking to collaborate on open source projects!
+- 💞️ Passionate about solving real time problems.
+      I’m looking forward to collaborate on open source projects!
 - 📫 How to reach me: LinkedIn- https://www.linkedin.com/in/ananth-s-628a7b1b6
                       Instagram- @ananth._.s
 
