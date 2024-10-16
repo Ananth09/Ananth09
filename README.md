@@ -1,4 +1,4 @@
-- 👋 Hey, I'm Ananth!
+- 👋 Hey, I'm Ananth! 
 - 👀 I'm passionate about solving problems in a creative and innovative manner. My programming skills include C, C++, Java, and Python.
 - 🌱 Currently, I am exploring the fascinating world of AI, ML, and Data Science, eager to learn and apply these cutting-edge technologies to solve real-world challenges.
 - 🏑 I enjoy tackling real-time problems and finding efficient solutions that make a positive impact. I am open to collaborating on exciting open-source projects.
