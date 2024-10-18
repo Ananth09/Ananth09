@@ -4,7 +4,7 @@
 - 🏑 I enjoy tackling real-time problems and finding efficient solutions that make a positive impact. I am open to collaborating on exciting open-source projects.
 - 📫 You can reach me on LinkedIn at https://www.linkedin.com/in/ananth-s-628a7b1b6. Let's connect and discuss opportunities for collaboration and learning!
  
-
+ 
 
 <!---
 Ananth09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
